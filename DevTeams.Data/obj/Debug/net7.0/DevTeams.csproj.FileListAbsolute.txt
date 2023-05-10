@@ -1,0 +1,12 @@
+C:\ElevenFiftyProjects\DevTeams\DevTeams.Data\bin\Debug\net7.0\DevTeams.deps.json
+C:\ElevenFiftyProjects\DevTeams\DevTeams.Data\bin\Debug\net7.0\DevTeams.dll
+C:\ElevenFiftyProjects\DevTeams\DevTeams.Data\bin\Debug\net7.0\DevTeams.pdb
+C:\ElevenFiftyProjects\DevTeams\DevTeams.Data\obj\Debug\net7.0\DevTeams.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\DevTeams\DevTeams.Data\obj\Debug\net7.0\DevTeams.GeneratedMSBuildEditorConfig.editorconfig
+C:\ElevenFiftyProjects\DevTeams\DevTeams.Data\obj\Debug\net7.0\DevTeams.AssemblyInfoInputs.cache
+C:\ElevenFiftyProjects\DevTeams\DevTeams.Data\obj\Debug\net7.0\DevTeams.AssemblyInfo.cs
+C:\ElevenFiftyProjects\DevTeams\DevTeams.Data\obj\Debug\net7.0\DevTeams.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\DevTeams\DevTeams.Data\obj\Debug\net7.0\DevTeams.dll
+C:\ElevenFiftyProjects\DevTeams\DevTeams.Data\obj\Debug\net7.0\refint\DevTeams.dll
+C:\ElevenFiftyProjects\DevTeams\DevTeams.Data\obj\Debug\net7.0\DevTeams.pdb
+C:\ElevenFiftyProjects\DevTeams\DevTeams.Data\obj\Debug\net7.0\ref\DevTeams.dll

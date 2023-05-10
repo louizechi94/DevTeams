@@ -1,0 +1,15 @@
+C:\ElevenFiftyProjects\DevTeams\DevTeams.Repository\bin\Debug\net7.0\DevTeams.Repository.deps.json
+C:\ElevenFiftyProjects\DevTeams\DevTeams.Repository\bin\Debug\net7.0\DevTeams.Repository.dll
+C:\ElevenFiftyProjects\DevTeams\DevTeams.Repository\bin\Debug\net7.0\DevTeams.Repository.pdb
+C:\ElevenFiftyProjects\DevTeams\DevTeams.Repository\bin\Debug\net7.0\DevTeams.dll
+C:\ElevenFiftyProjects\DevTeams\DevTeams.Repository\bin\Debug\net7.0\DevTeams.pdb
+C:\ElevenFiftyProjects\DevTeams\DevTeams.Repository\obj\Debug\net7.0\DevTeams.Repository.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\DevTeams\DevTeams.Repository\obj\Debug\net7.0\DevTeams.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\ElevenFiftyProjects\DevTeams\DevTeams.Repository\obj\Debug\net7.0\DevTeams.Repository.AssemblyInfoInputs.cache
+C:\ElevenFiftyProjects\DevTeams\DevTeams.Repository\obj\Debug\net7.0\DevTeams.Repository.AssemblyInfo.cs
+C:\ElevenFiftyProjects\DevTeams\DevTeams.Repository\obj\Debug\net7.0\DevTeams.Repository.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\DevTeams\DevTeams.Repository\obj\Debug\net7.0\DevTeams.Repository.csproj.CopyComplete
+C:\ElevenFiftyProjects\DevTeams\DevTeams.Repository\obj\Debug\net7.0\DevTeams.Repository.dll
+C:\ElevenFiftyProjects\DevTeams\DevTeams.Repository\obj\Debug\net7.0\refint\DevTeams.Repository.dll
+C:\ElevenFiftyProjects\DevTeams\DevTeams.Repository\obj\Debug\net7.0\DevTeams.Repository.pdb
+C:\ElevenFiftyProjects\DevTeams\DevTeams.Repository\obj\Debug\net7.0\ref\DevTeams.Repository.dll

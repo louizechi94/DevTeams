@@ -1,0 +1,2 @@
+1. add class lib -> dotnet new classlib -o "DevTeams.Data"
+2.add class lib -> dotnet new classlib -o "DevTeams.Repository"
